@@ -1,0 +1,36 @@
+[{
+  "driver_id": "1",
+  "trip_id": "trip-1",
+  "breaking": "01",
+  "accelerate": "02",
+  "stop": "01",
+  "crash": "05",
+  "curve": "10"
+},
+{
+  "driver_id": "1",
+  "trip_id": "trip-1",
+  "breaking": "01",
+  "accelerate": "02",
+  "stop": "01",
+  "crash": "05",
+  "curve": "10"
+},
+{
+  "driver_id": "2",
+  "trip_id": "trip-1",
+  "breaking": "01",
+  "accelerate": "02",
+  "stop": "01",
+  "crash": "05",
+  "curve": "10"
+},
+{
+  "driver_id": "4",
+  "trip_id": "trip-1",
+  "breaking": "01",
+  "accelerate": "02",
+  "stop": "01",
+  "crash": "05",
+  "curve": "10"
+}]
