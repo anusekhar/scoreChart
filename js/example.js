@@ -13,12 +13,12 @@ $(document).ready(function() {
     "background": "gold",
     "shadowDepth": "3"
   };
-  $.getJSON("js/drivers.json", function(data) {
+  $.getJSON("../json/drivers.json", function(data) {
     for (var i = 0; i < data.length; i++) {
       exampleBarChartData.datasets.labels[i] = data[i].driver_name; // set all labels for drivers
     }
   });
-  $.getJSON("js/data.json", function(data) {
+  $.getJSON("../json/data.json", function(data) {
     for (var i = 0; i < exampleBarChartData.datasets.labels.length; i++) {
       var total = 0;
       var a = i + 1;
