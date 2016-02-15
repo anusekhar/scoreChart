@@ -1,3 +1,3 @@
 # scoreChart
 
-This is a chart showing the scores of individual drivers performance in their trips.
+This is a chart that shows the scores of driver's performance in their trips.
